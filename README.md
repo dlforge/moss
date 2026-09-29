@@ -1,2 +1,4 @@
-# moss
-Moss is a lightweight, local-first daily journal with WYSIWYG Markdown, nested tags, full-text search, and optional sync to S3-compatible object storage.
+# moss 
+Moss is a quiet place to jot down your day, one small entry at a time, and find it again with instant full-text search.
+
+🚧 Work in progress
